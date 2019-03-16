@@ -1,0 +1,11 @@
+C:\Users\Orlando\source\repos\Desafio\Desafio\bin\Debug\netcoreapp2.1\Desafio.deps.json
+C:\Users\Orlando\source\repos\Desafio\Desafio\bin\Debug\netcoreapp2.1\Desafio.runtimeconfig.json
+C:\Users\Orlando\source\repos\Desafio\Desafio\bin\Debug\netcoreapp2.1\Desafio.runtimeconfig.dev.json
+C:\Users\Orlando\source\repos\Desafio\Desafio\bin\Debug\netcoreapp2.1\Desafio.dll
+C:\Users\Orlando\source\repos\Desafio\Desafio\bin\Debug\netcoreapp2.1\Desafio.pdb
+C:\Users\Orlando\source\repos\Desafio\Desafio\obj\Debug\netcoreapp2.1\Desafio.csprojAssemblyReference.cache
+C:\Users\Orlando\source\repos\Desafio\Desafio\obj\Debug\netcoreapp2.1\Desafio.csproj.CoreCompileInputs.cache
+C:\Users\Orlando\source\repos\Desafio\Desafio\obj\Debug\netcoreapp2.1\Desafio.AssemblyInfoInputs.cache
+C:\Users\Orlando\source\repos\Desafio\Desafio\obj\Debug\netcoreapp2.1\Desafio.AssemblyInfo.cs
+C:\Users\Orlando\source\repos\Desafio\Desafio\obj\Debug\netcoreapp2.1\Desafio.dll
+C:\Users\Orlando\source\repos\Desafio\Desafio\obj\Debug\netcoreapp2.1\Desafio.pdb
